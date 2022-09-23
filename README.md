@@ -13,5 +13,6 @@ Objetivo do projeto tem como finalidade ajudar o dia a dia do Q.A de forma efici
 E-mail para sugesões, dicas e ajuda: nicolash.oliveira@outlook.com.
 
 
-<h2>👨‍💻Contribuido e atualizado</h2>
+<h2>👨‍💻contribuinte</h2><br>
+
 Nicolas Oliveira

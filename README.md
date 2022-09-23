@@ -10,7 +10,7 @@ Calculadora desenvolvida em Java para testes unitários.<br>
 Objetivo do projeto tem como finalidade ajudar o dia a dia do Q.A de forma eficiente e agilizando o processo de teste com qualidade.
 
 <h2>💻Contato</h2>
-E-mail para sugesões, dicas e ajuda: nicolash.oliveira@outlook.com.
+E-mail para sugesões, dicas e  solicitação de ajuda: nicolash.oliveira@outlook.com.
 
 
 <h2>👨‍💻contribuinte</h2><br>

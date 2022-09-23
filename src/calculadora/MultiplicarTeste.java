@@ -9,7 +9,7 @@ public class MultiplicarTeste {
         
         System.out.println("\nTeste Multiplicação -->");
         
-        //----> Cenário 1: Multiplicação com dois números
+        //----> Cenário 1: Multiplicação com dois números inteiros
         int mult = calcMult.multiplicar(8, 5);
         System.out.println(mult);
         
